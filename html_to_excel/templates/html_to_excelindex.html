@@ -1,0 +1,45 @@
+<!-- templates/html_to_excelindex.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML to Excel Browser</title>
+</head>
+<body>
+    <h2>Browsing: {{ subpath if subpath else 'Root' }}</h2>
+
+    {% if dirs %}
+    <h3>Folders</h3>
+    <ul>
+        {% for d in dirs %}
+        <li>
+            <a href="{{ url_for('html_to_excel.browse_and_convert', subpath=(subpath + '/' + d).lstrip('/'), download=download_param if download_param else None) }}">
+                {{ d }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% if files %}
+    <h3>HTML Files</h3>
+    <ul>
+        {% for f in files %}
+        <li>
+            {{ f }}
+            {% if show_download %}
+                - <a href="{{ url_for('html_to_excel.generate_excel', subpath=subpath, filename=f, download=download_param if download_param else None) }}" class="btn btn-sm btn-success">Download Excel</a>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% if show_download and files %}
+        <br>
+        <a href="{{ url_for('html_to_excel.generate_combined_excel', subpath=subpath, download=download_param if download_param else None) }}" style="font-weight:bold;">
+            Download Combined {{ subpath if subpath else 'Root' }}
+        </a>
+    {% endif %}
+</body>
+</html>

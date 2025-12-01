@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MPHC Case Status</title>
+</head>
+<body>
+  
+    <pre>
+        {
+            "results": [
+                {% for result in case_data.results %}
+                {
+                    "pdf_link": "{{ result.pdf_link }}",
+                    "order_date": "{{ result.order_date }}"
+                }
+                {% if not loop.last %},{% endif %}
+                {% endfor %}
+            ]
+        }
+    </pre>
+
+    {% if not case_data.results %}
+        <p>No data found for the specified case.</p>
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bombay High Court Scraper</title>
+</head>
+<body>
+
+    {% if case_data %}
+        <pre>{{ case_data | tojson(indent=2) }}</pre>
+    {% else %}
+         <pre>{{ error }}</pre>
+    {% endif %}
+
+</body>
+</html>
+

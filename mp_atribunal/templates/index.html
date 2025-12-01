@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MP Tribunal Case Details</title>
+</head>
+<body>
+
+    {% if error %}
+        <p><strong>'Error':</strong> {{ error }}</p>
+    {% elif case_data and case_data.error %}
+        <p><strong>Error:</strong> {{ case_data.error }}</p>
+    {% elif case_data %}
+        <pre>{{ case_data | tojson(indent=4) }}</pre>
+    {% else %}
+        <p>No data available.</p>
+    {% endif %}
+
+</body>
+</html>
+
