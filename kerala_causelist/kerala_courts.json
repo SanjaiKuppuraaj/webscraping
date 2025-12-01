@@ -1,0 +1,2518 @@
+{
+    "ALAPPUZHA": [
+        {
+            "name": "Judl.First Class Magistrate Court-I, Chengannur",
+            "value": "18"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-I, Haripad",
+            "value": "19"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-I, Kayamkulam",
+            "value": "20"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-I, Mavelikara",
+            "value": "32"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-I,Cherthala.",
+            "value": "17"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-II, Chengannur",
+            "value": "23"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-II, Haripad",
+            "value": "24"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-II, Mavelikara",
+            "value": "33"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-II,Cherthala.",
+            "value": "21"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-III, Mavelikara",
+            "value": "29"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-IV,Cherthala.",
+            "value": "31"
+        },
+        {
+            "name": "Addl MACT, Mavelikkara",
+            "value": "2"
+        },
+        {
+            "name": "Addl.District And Sessions Court-I / Rent Control Appellate Authority, Mavelikkara",
+            "value": "1"
+        },
+        {
+            "name": "Chief Judicial Magistrate Court Alappuzha",
+            "value": "3"
+        },
+        {
+            "name": "Commercial Court Cherthala",
+            "value": "4"
+        },
+        {
+            "name": "Commercial Court, Alappuzha",
+            "value": "5"
+        },
+        {
+            "name": "Commercial Court, Chengannur",
+            "value": "6"
+        },
+        {
+            "name": "Commercial Court, Mavelikkara",
+            "value": "7"
+        },
+        {
+            "name": "District & Sessions Court / Rent Control Appellate Authority , Alappuzha",
+            "value": "8"
+        },
+        {
+            "name": "Family Court,Alappuzha",
+            "value": "9"
+        },
+        {
+            "name": "Family Court,Mavelikkara",
+            "value": "10"
+        },
+        {
+            "name": "Fast Track Special Court, Chengannur",
+            "value": "11"
+        },
+        {
+            "name": "Fast Track Special Court, Cherthala",
+            "value": "12"
+        },
+        {
+            "name": "Fast Track Special Court, Haripad.",
+            "value": "13"
+        },
+        {
+            "name": "Gram Nyayalaya, Ambalappuzha",
+            "value": "14"
+        },
+        {
+            "name": "Gram Nyayalaya, Kanjikuzhi",
+            "value": "15"
+        },
+        {
+            "name": "JFCM COURT-I, Alappuzha",
+            "value": "34"
+        },
+        {
+            "name": "JFCM Court, Ambalappuzha",
+            "value": "26"
+        },
+        {
+            "name": "JFCM II, Alappuzha",
+            "value": "22"
+        },
+        {
+            "name": "JFCM-III Alappuzha",
+            "value": "27"
+        },
+        {
+            "name": "JFCM-IV Alappuzha",
+            "value": "30"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Ramankary",
+            "value": "16"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-II, Kayamkulam",
+            "value": "25"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-III,Cherthala.",
+            "value": "28"
+        },
+        {
+            "name": "Juvenile Justice Board, Alappuzha",
+            "value": "595"
+        },
+        {
+            "name": "M.A.C.T, Alappuzha",
+            "value": "35"
+        },
+        {
+            "name": "Munsiff Court Alappuzha",
+            "value": "36"
+        },
+        {
+            "name": "Munsiff Court, Chengannur",
+            "value": "37"
+        },
+        {
+            "name": "Munsiff Court, Cherthala",
+            "value": "38"
+        },
+        {
+            "name": "Munsiff Court, Haripad",
+            "value": "39"
+        },
+        {
+            "name": "Munsiff Court, Kayamkulam",
+            "value": "41"
+        },
+        {
+            "name": "Munsiff Court, Mavelikkara",
+            "value": "40"
+        },
+        {
+            "name": "Special Court for the trial of Popular Finance Scam Cases-BUDS ACT 2019,Alappuzha",
+            "value": "582"
+        },
+        {
+            "name": "Sub Court Alappuzha",
+            "value": "42"
+        },
+        {
+            "name": "Sub Court, Chengannur",
+            "value": "43"
+        },
+        {
+            "name": "Sub Court, Cherthala",
+            "value": "44"
+        },
+        {
+            "name": "Sub Court, Mavelikkara",
+            "value": "45"
+        }
+    ],
+    "ERNAKULAM": [
+        {
+            "name": "Additional Special Sessions Court /SPE/CBI -III,Ernakulam",
+            "value": "49"
+        },
+        {
+            "name": "Addl. Chief Judicial Magistrate (Court Spl.Court For Cases Related to MPs MLAs), Ernakulam",
+            "value": "47"
+        },
+        {
+            "name": "Addl. Chief Judicial Magistrate Court (Economic Offense), Ernakulam",
+            "value": "50"
+        },
+        {
+            "name": "Addl. District Court, Muvattupuzha",
+            "value": "52"
+        },
+        {
+            "name": "Addl. District Court, North Paravur",
+            "value": "51"
+        },
+        {
+            "name": "Addl. Spl. Court for the trial of POCSO Act Cases, Muvattupuzha",
+            "value": "53"
+        },
+        {
+            "name": "Addl.Chief Judicial Magistrate Court Ernakulam",
+            "value": "46"
+        },
+        {
+            "name": "Addl.District Court for cases against Atrocities and Sexual violence against women and children, Ernakulam",
+            "value": "54"
+        },
+        {
+            "name": "Chief Judicial Magistrate Court Ernakulam",
+            "value": "55"
+        },
+        {
+            "name": "Commercial Court, Ernakulam",
+            "value": "56"
+        },
+        {
+            "name": "Commercial Court, Kochi",
+            "value": "57"
+        },
+        {
+            "name": "Commercial Court, Muvattupuzha",
+            "value": "58"
+        },
+        {
+            "name": "Commercial Court, North Paravur",
+            "value": "59"
+        },
+        {
+            "name": "Commercial Court, Perumbavoor",
+            "value": "60"
+        },
+        {
+            "name": "District and Sessions Court/Rent Control Appellate Authority Ernakulam",
+            "value": "61"
+        },
+        {
+            "name": "Enquiry Commissioner And Special Judge (VIGILANCE) Muvattupuzha",
+            "value": "614"
+        },
+        {
+            "name": "Family Court Muvattupuzha",
+            "value": "62"
+        },
+        {
+            "name": "Family Court North paravur",
+            "value": "567"
+        },
+        {
+            "name": "Family Court, Aluva",
+            "value": "597"
+        },
+        {
+            "name": "Family Court, Ernakulam",
+            "value": "63"
+        },
+        {
+            "name": "Fast Track Special Court North Paravur",
+            "value": "575"
+        },
+        {
+            "name": "Fast Track Special Court Perumbavoor",
+            "value": "64"
+        },
+        {
+            "name": "Fast Track Special Court, Aluva",
+            "value": "65"
+        },
+        {
+            "name": "Gram Nyayalaya,Chendamangalam",
+            "value": "66"
+        },
+        {
+            "name": "Gram Nyayalaya,Vadavucode",
+            "value": "67"
+        },
+        {
+            "name": "JFCM-III, Muvattupuzha",
+            "value": "79"
+        },
+        {
+            "name": "JFCM, Muvattupuzha",
+            "value": "78"
+        },
+        {
+            "name": "JFCM2, Muvattupuzha",
+            "value": "80"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court ,Mattancherry",
+            "value": "83"
+        },
+        {
+            "name": "Judicial First class Magistrate Court (NI Act) Ernakulam",
+            "value": "77"
+        },
+        {
+            "name": "Judicial First class Magistrate Court 1, Kochi",
+            "value": "84"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 1, North Paravur",
+            "value": "81"
+        },
+        {
+            "name": "Judicial First class Magistrate Court 2, Kochi",
+            "value": "85"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 2, North Paravur",
+            "value": "82"
+        },
+        {
+            "name": "Judicial First class Magistrate Court 3, Kochi",
+            "value": "86"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 3,North Paravur",
+            "value": "87"
+        },
+        {
+            "name": "Judicial First class Magistrate Court 4, Kochi",
+            "value": "88"
+        },
+        {
+            "name": "Judicial First class Magistrate Court IX Ernakulam",
+            "value": "76"
+        },
+        {
+            "name": "Judicial First class Magistrate Court VIII Ernakulam",
+            "value": "75"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-1, Kothamangalam",
+            "value": "96"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-2, Kothamangalam",
+            "value": "97"
+        },
+        {
+            "name": "Judicial First class Magistrate Court, Kolenchery",
+            "value": "89"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Tripunithura",
+            "value": "90"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court,Angamaly",
+            "value": "91"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court,Chottanikara",
+            "value": "92"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court,Kakkanad",
+            "value": "93"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court,Kalamassery",
+            "value": "94"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court,Piravom",
+            "value": "95"
+        },
+        {
+            "name": "Judicial First class Magistrate Court1 Aluva",
+            "value": "98"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court1, Perumbavoor",
+            "value": "99"
+        },
+        {
+            "name": "Judicial First class Magistrate Court2 Aluva",
+            "value": "100"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court2, Perumbavoor",
+            "value": "101"
+        },
+        {
+            "name": "Judicial First class Magistrate Court3 Aluva",
+            "value": "102"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court3,Perumbavoor",
+            "value": "103"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court4,Perumbavoor",
+            "value": "104"
+        },
+        {
+            "name": "Judicial First class MagistrateCourt I, Ernakulam",
+            "value": "68"
+        },
+        {
+            "name": "Judicial First class MagistrateCourt II Ernakulam",
+            "value": "69"
+        },
+        {
+            "name": "Judicial First class MagistrateCourt III Ernakulam",
+            "value": "70"
+        },
+        {
+            "name": "Judicial First class MagistrateCourt IV Ernakulam",
+            "value": "71"
+        },
+        {
+            "name": "Judicial First class MagistrateCourt V, Ernakulam",
+            "value": "72"
+        },
+        {
+            "name": "Judicial First class MagistrateCourt VI Ernakulam",
+            "value": "73"
+        },
+        {
+            "name": "Judicial First class MagistrateCourt VII Ernakulam",
+            "value": "74"
+        },
+        {
+            "name": "Judicial FirstClass Magistrate Court,Njarakal",
+            "value": "105"
+        },
+        {
+            "name": "Juvenile Justice Board Ernakulam",
+            "value": "596"
+        },
+        {
+            "name": "Kerala Value Added Tax / Agricultural Income Tax & Sales Tax Appellate Tribunal, Ernakulam",
+            "value": "621"
+        },
+        {
+            "name": "MACT, Muvattupuzha",
+            "value": "106"
+        },
+        {
+            "name": "Motor Accident Claims Tribunal, North Paravur",
+            "value": "107"
+        },
+        {
+            "name": "Motor Accidents Claims Tribunal, Ernakulam",
+            "value": "108"
+        },
+        {
+            "name": "Motor Accidents Claims Tribunal, Perumbavoor",
+            "value": "109"
+        },
+        {
+            "name": "Munsiff Court Ernakulam",
+            "value": "110"
+        },
+        {
+            "name": "Munsiff court Kothamangalam",
+            "value": "111"
+        },
+        {
+            "name": "Munsiff Court, Aluva",
+            "value": "113"
+        },
+        {
+            "name": "Munsiff Court, Kochi",
+            "value": "114"
+        },
+        {
+            "name": "Munsiff Court, Kolenchery",
+            "value": "115"
+        },
+        {
+            "name": "Munsiff Court, Muvattupuzha",
+            "value": "116"
+        },
+        {
+            "name": "Munsiff Court, North Paravur",
+            "value": "112"
+        },
+        {
+            "name": "Munsiff Court, Perumbavoor",
+            "value": "117"
+        },
+        {
+            "name": "Permanent Lok Adalat Ernakulam",
+            "value": "902"
+        },
+        {
+            "name": "Special Court /SPE/CBI-I/PMLA, Ernakulam",
+            "value": "120"
+        },
+        {
+            "name": "Special Court for NIA Cases/SPE/CBI -II, Ernakulam",
+            "value": "118"
+        },
+        {
+            "name": "Special Court for the trial of offences under the SC and ST PoA ACT 1989, Ernakulam",
+            "value": "598"
+        },
+        {
+            "name": "Special Court for/NIA Cases/SPE/CBI-I, Ernakulam",
+            "value": "119"
+        },
+        {
+            "name": "Special Court SPE.CBI-II, Ernakulam",
+            "value": "121"
+        },
+        {
+            "name": "State Transport Appellate Tribunal",
+            "value": "123"
+        },
+        {
+            "name": "Sub Court , Muvattupuzha",
+            "value": "124"
+        },
+        {
+            "name": "Sub Court Ernakulam",
+            "value": "125"
+        },
+        {
+            "name": "Sub Court, North Paravur",
+            "value": "126"
+        },
+        {
+            "name": "Sub Court, Perumbavoor",
+            "value": "128"
+        },
+        {
+            "name": "Sub Court/Asst.Sessions Court, Kochi",
+            "value": "127"
+        },
+        {
+            "name": "Test Court",
+            "value": "1001"
+        }
+    ],
+    "IDUKKI": [
+        {
+            "name": "Chief Judicial Magistrate Court, Thodupuzha",
+            "value": "130"
+        },
+        {
+            "name": "Commercial Court, Devikulam",
+            "value": "132"
+        },
+        {
+            "name": "Commercial Court, Kattappana",
+            "value": "133"
+        },
+        {
+            "name": "Commercial Court, Thodupuzha",
+            "value": "131"
+        },
+        {
+            "name": "District and Sessions Court / Rent Control Appellate Authority, Thodupuzha",
+            "value": "134"
+        },
+        {
+            "name": "Family Court, Kattappana",
+            "value": "135"
+        },
+        {
+            "name": "Family Court, Thodupuzha",
+            "value": "136"
+        },
+        {
+            "name": "Fast Track Special Court, Devikulam",
+            "value": "139"
+        },
+        {
+            "name": "Fast Track Special Court, Idukki",
+            "value": "137"
+        },
+        {
+            "name": "Fast Track Special Court, Kattappana",
+            "value": "138"
+        },
+        {
+            "name": "Gram Nyayalaya (Azhutha), Peermade",
+            "value": "140"
+        },
+        {
+            "name": "Gram Nyayalaya, Kattppana",
+            "value": "565"
+        },
+        {
+            "name": "Gram Nyayalaya, Nedumkandam",
+            "value": "141"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - I, Kattappana",
+            "value": "145"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - I, Peermade",
+            "value": "151"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - I, Thodupuzha",
+            "value": "150"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - II, Idukki",
+            "value": "148"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - II, Kattappana",
+            "value": "147"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - II, Peermade",
+            "value": "146"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - II, Thodupuzha",
+            "value": "149"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-I, Idukki",
+            "value": "152"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Adimaly",
+            "value": "142"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Devikulam",
+            "value": "144"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Nedumkandam",
+            "value": "143"
+        },
+        {
+            "name": "Juvenile Justice Board, Idukki",
+            "value": "588"
+        },
+        {
+            "name": "Motor Accident Claim Tribunal, Thodupuzha",
+            "value": "153"
+        },
+        {
+            "name": "Munsiff Court, Adimaly",
+            "value": "156"
+        },
+        {
+            "name": "Munsiff Court, Devikulam",
+            "value": "157"
+        },
+        {
+            "name": "Munsiff Court, Idukki",
+            "value": "158"
+        },
+        {
+            "name": "Munsiff Court, Kattppana",
+            "value": "154"
+        },
+        {
+            "name": "Munsiff Court, Peermade",
+            "value": "159"
+        },
+        {
+            "name": "Munsiff Court, Thodupuzha",
+            "value": "155"
+        },
+        {
+            "name": "Special Court for NDPS Act Cases, Thodupuzha",
+            "value": "160"
+        },
+        {
+            "name": "Sub Court & Asst. Sessions Court, Devikulam",
+            "value": "161"
+        },
+        {
+            "name": "Sub Court & Asst. Sessions Court, Kattappana",
+            "value": "162"
+        },
+        {
+            "name": "Sub Court & Asst. Sessions Court, Thodupuzha",
+            "value": "163"
+        }
+    ],
+    "KANNUR": [
+        {
+            "name": "ACJM Court, Thalassery",
+            "value": "165"
+        },
+        {
+            "name": "ADC/MACT Taliparamba",
+            "value": "188"
+        },
+        {
+            "name": "Addl. Munsiff Court Kannur",
+            "value": "164"
+        },
+        {
+            "name": "CJM Court, Thalassery",
+            "value": "166"
+        },
+        {
+            "name": "Commercial Court Kannur",
+            "value": "167"
+        },
+        {
+            "name": "Commercial Court Thalassery",
+            "value": "168"
+        },
+        {
+            "name": "Commercial Court, Payyannur",
+            "value": "169"
+        },
+        {
+            "name": "District And Sessions Court Thalassery",
+            "value": "170"
+        },
+        {
+            "name": "Enquiry Commissioner And Special Judge (VIGILANCE) Thalassery",
+            "value": "617"
+        },
+        {
+            "name": "Family Court, Thalassery",
+            "value": "171"
+        },
+        {
+            "name": "Family Court,Kannur",
+            "value": "172"
+        },
+        {
+            "name": "Fast Track special Cour(POCSO), Kannur",
+            "value": "173"
+        },
+        {
+            "name": "Fast Track special Court ,Thalassery",
+            "value": "175"
+        },
+        {
+            "name": "Fast Track Special Court, Mattannur",
+            "value": "581"
+        },
+        {
+            "name": "FTSC ,Taliparamba",
+            "value": "174"
+        },
+        {
+            "name": "Gramnyayalaya Irikkur",
+            "value": "176"
+        },
+        {
+            "name": "Gramnyayalaya, Payam",
+            "value": "177"
+        },
+        {
+            "name": "Gramnyayalaya, Panoor at Chokli",
+            "value": "178"
+        },
+        {
+            "name": "JFCM Kuthuparamba",
+            "value": "186"
+        },
+        {
+            "name": "JFCM Court, Thalassery",
+            "value": "185"
+        },
+        {
+            "name": "JFCM, Payyannur",
+            "value": "183"
+        },
+        {
+            "name": "JFCM, Taliparamba",
+            "value": "184"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court -1 Kannur",
+            "value": "180"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court -2 Kannur",
+            "value": "181"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court -3 Kannur",
+            "value": "182"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Mattannur",
+            "value": "179"
+        },
+        {
+            "name": "Juvenile Justice Board,Thalassery",
+            "value": "187"
+        },
+        {
+            "name": "Motor Accidents Claims Tribunal, Thalassery",
+            "value": "189"
+        },
+        {
+            "name": "Munsiff Court, Payyannur",
+            "value": "190"
+        },
+        {
+            "name": "Munsiff Court, Taliparamba",
+            "value": "191"
+        },
+        {
+            "name": "Munsiff/JFCM NO.2 Court , Thalassery",
+            "value": "192"
+        },
+        {
+            "name": "Munsiff/JFCM NO.2 Court Kuthuparamba",
+            "value": "193"
+        },
+        {
+            "name": "Principal Sub Court, Thalassery",
+            "value": "197"
+        },
+        {
+            "name": "Prl. Munsiff Court, Kannur",
+            "value": "194"
+        },
+        {
+            "name": "Sub Court, Kannur",
+            "value": "195"
+        },
+        {
+            "name": "Sub Court, Payyannur",
+            "value": "196"
+        }
+    ],
+    "KASARGOD": [
+        {
+            "name": "Chief Judicial Magistrate , Kasargod",
+            "value": "198"
+        },
+        {
+            "name": "Commercial Court, Hosdurg",
+            "value": "200"
+        },
+        {
+            "name": "Commercial Court, Kasargod",
+            "value": "199"
+        },
+        {
+            "name": "District Court Kasaragod",
+            "value": "201"
+        },
+        {
+            "name": "Family Court,Kasargod",
+            "value": "202"
+        },
+        {
+            "name": "Fast Track Special Court Hosdurg",
+            "value": "203"
+        },
+        {
+            "name": "Fast Track Special Court, Kasargod",
+            "value": "204"
+        },
+        {
+            "name": "Gramnyayalaya, Parappa",
+            "value": "205"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - I , Kasargod",
+            "value": "206"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court -III , Kasaragode",
+            "value": "207"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court I, Hosdurg",
+            "value": "208"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court II, Hosdurg",
+            "value": "209"
+        },
+        {
+            "name": "Juvenile Justice Board,Kasaragod",
+            "value": "210"
+        },
+        {
+            "name": "Motor Accidents Claims Tribunal, Kasargod",
+            "value": "211"
+        },
+        {
+            "name": "Munsiff Court /JFCM II,Kasaragod",
+            "value": "212"
+        },
+        {
+            "name": "Munsiff Court, Hosdurg",
+            "value": "213"
+        },
+        {
+            "name": "Sub Court, Hosdurg",
+            "value": "215"
+        },
+        {
+            "name": "Sub Court, Kasaragod",
+            "value": "214"
+        }
+    ],
+    "KOLLAM": [
+        {
+            "name": "Additional District AND SESSIONS (SPECIAL COURT) FOR THE TRIAL OF PUTTINGAL DEVI TEMPLE FIRE WORKS MISHAP CASE",
+            "value": "585"
+        },
+        {
+            "name": "Additional District and Sessions Court / Rent Control Appellate Authority Kollam , Punalur",
+            "value": "593"
+        },
+        {
+            "name": "Additional District Court-III / Rent Control Appellate Authority Kollam, Kollam",
+            "value": "264"
+        },
+        {
+            "name": "Additional Sessions Court - (Abkari Cases) / Rent Control Appellate Authority Kollam , Kottarakkara",
+            "value": "216"
+        },
+        {
+            "name": "Chief Judicial Magistrate Court Kollam",
+            "value": "217"
+        },
+        {
+            "name": "Commercial Court , Kottarakkara",
+            "value": "218"
+        },
+        {
+            "name": "Commercial Court, Karunagappally",
+            "value": "219"
+        },
+        {
+            "name": "Commercial Court, Kollam",
+            "value": "220"
+        },
+        {
+            "name": "Commercial Court, Punalur",
+            "value": "221"
+        },
+        {
+            "name": "Enquiry Commissioner And Special Judge (VIGILANCE) Kollam",
+            "value": "594"
+        },
+        {
+            "name": "Family Court , Paravur",
+            "value": "223"
+        },
+        {
+            "name": "Family Court, Chavara",
+            "value": "224"
+        },
+        {
+            "name": "Family Court, Punalur",
+            "value": "225"
+        },
+        {
+            "name": "Family Court,Kollam",
+            "value": "226"
+        },
+        {
+            "name": "Family Court,Kottarakkara",
+            "value": "227"
+        },
+        {
+            "name": "Fast Track Special Court , Karunagappally",
+            "value": "228"
+        },
+        {
+            "name": "Fast Track Special Court, Kollam",
+            "value": "229"
+        },
+        {
+            "name": "Fast Track Special Court, Kottarakkara",
+            "value": "230"
+        },
+        {
+            "name": "Fast Track Special Court, Punalur",
+            "value": "231"
+        },
+        {
+            "name": "Gram Nyayalaya , Chittumala , Perinad",
+            "value": "233"
+        },
+        {
+            "name": "Gram Nyayalaya, Chadayamangalam",
+            "value": "232"
+        },
+        {
+            "name": "Grama Nyayalaya, Chavara",
+            "value": "234"
+        },
+        {
+            "name": "Honorary Special II Class Judicial Magistrate Court , Kollam",
+            "value": "235"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court , Kadakkal",
+            "value": "237"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court , Paravur",
+            "value": "246"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court , Pathanapuram",
+            "value": "240"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court , Sasthamcotta",
+            "value": "245"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court ,Chavara",
+            "value": "236"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court II kollam",
+            "value": "239"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-1 , Kottarakkara",
+            "value": "249"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-1, Kollam",
+            "value": "241"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-2 , Kottarakkara",
+            "value": "250"
+        },
+        {
+            "name": "Judicial First Class Magistrate court-2 , Paravur",
+            "value": "244"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-2 , Sasthamcotta",
+            "value": "243"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-3 , Kollam",
+            "value": "238"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Karunagappally",
+            "value": "242"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-I, Punalur",
+            "value": "247"
+        },
+        {
+            "name": "Judl.First Class Magistrate Court-II ( Forest Offences , Punalur",
+            "value": "248"
+        },
+        {
+            "name": "Juvenile Justice Board, Kollam",
+            "value": "592"
+        },
+        {
+            "name": "Model Digital Family Court, Sasthamkotta",
+            "value": "618"
+        },
+        {
+            "name": "Motor Accident Claims Tribunal ,Kollam",
+            "value": "251"
+        },
+        {
+            "name": "Motor Accident Claims Tribunal ,Punalur",
+            "value": "252"
+        },
+        {
+            "name": "Munsiff Court/Judicial First Class Magistrate Court-II , Karunagappally",
+            "value": "253"
+        },
+        {
+            "name": "Munsiff Court/Judicial First Class Magistrate Court-III , Kottarakkara",
+            "value": "254"
+        },
+        {
+            "name": "Munsiff Court/Judicial First Class Magistrate Court-IV , Punalur",
+            "value": "255"
+        },
+        {
+            "name": "Munsiff Magistrate Court , Paravur",
+            "value": "256"
+        },
+        {
+            "name": "Munsiff Magistrate Court , Sasthamcotta",
+            "value": "257"
+        },
+        {
+            "name": "Principal Munsiffs Court, Kollam (Invested with Magisterial powers for Sec. 138, N.I. Act cases-JFCMC-IV)",
+            "value": "258"
+        },
+        {
+            "name": "Principal Sub Court Kollam",
+            "value": "259"
+        },
+        {
+            "name": "Principle District and Sessions Court / Rent Control Appellate Authority Kollam Kollam",
+            "value": "222"
+        },
+        {
+            "name": "Special Court for trial of offenses under SC/ST (POA) Act , Kottarakkara",
+            "value": "260"
+        },
+        {
+            "name": "Sub Court Karunagappally",
+            "value": "261"
+        },
+        {
+            "name": "Sub Court, Kottarakkara",
+            "value": "262"
+        },
+        {
+            "name": "Sub Court, Punalur",
+            "value": "263"
+        }
+    ],
+    "KOTTAYAM": [
+        {
+            "name": "Kerala Value Added Tax / Agricultural Income Tax & Sales Tax Appellate Tribunal, Kottayam",
+            "value": "620"
+        },
+        {
+            "name": "Chief Judicial Magistrate, Kottayam",
+            "value": "265"
+        },
+        {
+            "name": "Commercial Court, Pala",
+            "value": "267"
+        },
+        {
+            "name": "Commercial Court/Commercial Court-I Kottayam",
+            "value": "266"
+        },
+        {
+            "name": "Enquiry Commissioner And Special Judge (VIGILANCE) Kottayam",
+            "value": "613"
+        },
+        {
+            "name": "Family Court, Ettumanoor",
+            "value": "270"
+        },
+        {
+            "name": "Family Court, Pala",
+            "value": "269"
+        },
+        {
+            "name": "Fast Track Special Court (P.O.C.S.O), Changanacherry",
+            "value": "271"
+        },
+        {
+            "name": "Fast Track Special Court (P.O.C.S.O), Erattupetta",
+            "value": "272"
+        },
+        {
+            "name": "Fast Track Special Court (P.O.C.S.O), Kottayam",
+            "value": "273"
+        },
+        {
+            "name": "Gram Nyayalaya Pampady",
+            "value": "274"
+        },
+        {
+            "name": "Gram Nyayalaya Vaikom",
+            "value": "275"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court I, Erattupetta",
+            "value": "281"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court I, Kanjirapally",
+            "value": "283"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court II, Kanjirapally",
+            "value": "276"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-I, Changanacherry",
+            "value": "280"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-I, Ettumanoor",
+            "value": "282"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-I, Kottayam",
+            "value": "277"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-I, Vaikom",
+            "value": "285"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-II, Kottayam",
+            "value": "278"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-III, Kottayam",
+            "value": "279"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court,Pala",
+            "value": "284"
+        },
+        {
+            "name": "Juvenile Justice Board, Kottayam",
+            "value": "587"
+        },
+        {
+            "name": "Motor Accident Claims Tribunal, Kottayam",
+            "value": "286"
+        },
+        {
+            "name": "Motor Accident Claims Tribunal/Addl.district & Sessions Court Pala",
+            "value": "287"
+        },
+        {
+            "name": "Munsiff Court / Judicial First Class Magistrate -II,Vaikom",
+            "value": "289"
+        },
+        {
+            "name": "Munsiff Court, Erattupetta",
+            "value": "291"
+        },
+        {
+            "name": "Munsiff Court/ Judicial First Class Magistrate -II Ettumanoor",
+            "value": "292"
+        },
+        {
+            "name": "Munsiff court/ Judicial First Class Magistrate -II, Changanacherry",
+            "value": "290"
+        },
+        {
+            "name": "Munsiff Court/ Judicial First Class Magistrate -II, Pala",
+            "value": "294"
+        },
+        {
+            "name": "Munsiff Court/ Judicial First Class Magistrate -III, Kanjirapally",
+            "value": "288"
+        },
+        {
+            "name": "Munsiff Court/ Judicial First Class Magistrate -IV, Kottayam",
+            "value": "293"
+        },
+        {
+            "name": "Principal District & Sessions Court / Rent Control Appellate Authority, Kottayam",
+            "value": "268"
+        },
+        {
+            "name": "Principal Sub Court, Kottayam",
+            "value": "295"
+        },
+        {
+            "name": "Sub Court, Pala",
+            "value": "296"
+        }
+    ],
+    "KOZHIKODE": [
+        {
+            "name": "Additional District Court-II / Rent Control Appellate Authority-II, Vatakara",
+            "value": "611"
+        },
+        {
+            "name": "Additional District Court (For the trial of cases relating to atrocities and sexual violences towards women and children) - POCSO Kozhikode",
+            "value": "298"
+        },
+        {
+            "name": "Additional District Court-I/ Rent Control Appellate Authority-I, Vatakara",
+            "value": "299"
+        },
+        {
+            "name": "Additional District Court-III/ Rent Control Appellate Authority-III, Kozhikode",
+            "value": "297"
+        },
+        {
+            "name": "Commercail Court, Vatakara",
+            "value": "301"
+        },
+        {
+            "name": "Commercial Court Kozhikode",
+            "value": "302"
+        },
+        {
+            "name": "Commercial Court, Koyilandy",
+            "value": "303"
+        },
+        {
+            "name": "Court of Chief Judicial Magistrate (CJM), Kozhikode",
+            "value": "300"
+        },
+        {
+            "name": "Court of the Judicial Magistrate of the First Class -II, Kozhikode",
+            "value": "311"
+        },
+        {
+            "name": "District Court / Rent Control Appellate Authority, Kozhikode",
+            "value": "304"
+        },
+        {
+            "name": "Enquiry Commissioner And Special Judge (VIGILANCE) Kozhikode",
+            "value": "616"
+        },
+        {
+            "name": "Family Court, Vatakara",
+            "value": "305"
+        },
+        {
+            "name": "Family Court,Kozhikode",
+            "value": "306"
+        },
+        {
+            "name": "Fast Track Special Court, Nadapuram",
+            "value": "307"
+        },
+        {
+            "name": "Fast Track Special Court. Kozhikode",
+            "value": "343"
+        },
+        {
+            "name": "Forest Tribunal, Kozhikode",
+            "value": "624"
+        },
+        {
+            "name": "Gram Nyayalaya, Koduvally at Thamarassery",
+            "value": "308"
+        },
+        {
+            "name": "Gram Nyayalaya, Kunnumel at Kuttiady",
+            "value": "309"
+        },
+        {
+            "name": "Judicial First Class Magistrate -I, Kozhikode",
+            "value": "310"
+        },
+        {
+            "name": "Judicial First Class Magistrate -III, Kozhikode",
+            "value": "312"
+        },
+        {
+            "name": "Judicial First Class Magistrate -V, Kozhikode",
+            "value": "313"
+        },
+        {
+            "name": "Judicial First Class Magistrate 10 Kozhikode",
+            "value": "321"
+        },
+        {
+            "name": "Judicial First Class Magistrate 11 Kozhikode",
+            "value": "322"
+        },
+        {
+            "name": "Judicial First Class Magistrate 8 Kozhikode",
+            "value": "323"
+        },
+        {
+            "name": "Judicial First Class Magistrate 9 Kozhikode",
+            "value": "324"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court I, Perambra",
+            "value": "329"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court I, Vatakara",
+            "value": "325"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court II, Perambra",
+            "value": "330"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court II, Vatakara",
+            "value": "318"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court IV, Kozhikode",
+            "value": "319"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Koyilandy",
+            "value": "326"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Kunnamangalam",
+            "value": "315"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Nadapuram",
+            "value": "327"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Payyoli",
+            "value": "328"
+        },
+        {
+            "name": "Judicial First Class Magistrate I, Thamarassery",
+            "value": "316"
+        },
+        {
+            "name": "Judicial First Class Magistrate II, Thamarassery",
+            "value": "317"
+        },
+        {
+            "name": "Kerala Value Added Tax / Agricultural Income Tax & Sales Tax Appellate Tribunal, Additional Bench, Kozhikode",
+            "value": "622"
+        },
+        {
+            "name": "Motor Accidents Claim Tribunal (MACT), Kozhikode",
+            "value": "331"
+        },
+        {
+            "name": "Motor Accidents Claim Tribunal (MACT), Vatakara",
+            "value": "332"
+        },
+        {
+            "name": "Munsiff Magistrate Court, Koyilandy",
+            "value": "339"
+        },
+        {
+            "name": "Munsiff Magistrate Court, Nadapuram",
+            "value": "335"
+        },
+        {
+            "name": "Munsiff Magistrate Court, Payyoli",
+            "value": "336"
+        },
+        {
+            "name": "Munsiff Magistrate Court, Perambra",
+            "value": "340"
+        },
+        {
+            "name": "Munsiff Magistrate Court, Thamarassery",
+            "value": "337"
+        },
+        {
+            "name": "Munsiff Magistrate Court, Vatakara",
+            "value": "338"
+        },
+        {
+            "name": "Permanent Lok Adalat Kozhikode",
+            "value": "903"
+        },
+        {
+            "name": "Principal Munsiff Court -I, Kozhikode",
+            "value": "333"
+        },
+        {
+            "name": "Principal Munsiff Court -II, Kozhikode",
+            "value": "334"
+        },
+        {
+            "name": "Special Addl. Sessions Court (Marad Cases)",
+            "value": "344"
+        },
+        {
+            "name": "Special Court NDPS Act Cases, Vatakara",
+            "value": "341"
+        },
+        {
+            "name": "Special Court of JFCM for the trial of cases under section 138 NI Act, 1881 , Kozhikode",
+            "value": "314"
+        },
+        {
+            "name": "Special Fast Track Court, Koyilandy",
+            "value": "342"
+        },
+        {
+            "name": "Special Judicial First Class Magistrate (Marad Cases )",
+            "value": "320"
+        },
+        {
+            "name": "Sub Court, Koyilandy",
+            "value": "347"
+        },
+        {
+            "name": "Sub Court, Kozhikode",
+            "value": "345"
+        },
+        {
+            "name": "Sub Court, Vatakara",
+            "value": "346"
+        },
+        {
+            "name": "WAQF Tribunal",
+            "value": "584"
+        }
+    ],
+    "MALAPPURAM": [
+        {
+            "name": "Chief Judicial Magistrate,Manjeri",
+            "value": "350"
+        },
+        {
+            "name": "Commercial Court,Manjeri",
+            "value": "352"
+        },
+        {
+            "name": "Commercial Court,Tirur",
+            "value": "351"
+        },
+        {
+            "name": "District and Sessions Court / Rent Control Appellate Authority, Manjeri",
+            "value": "353"
+        },
+        {
+            "name": "Family Court,Malappuram",
+            "value": "354"
+        },
+        {
+            "name": "Family Court,Tirur",
+            "value": "355"
+        },
+        {
+            "name": "Fast Track Special Court - I,Manjeri",
+            "value": "356"
+        },
+        {
+            "name": "Fast Track Special Court - II,Manjeri",
+            "value": "360"
+        },
+        {
+            "name": "Fast Track Special Court - II,Perinthalmanna",
+            "value": "361"
+        },
+        {
+            "name": "Fast Track Special Court ,Perinthalmanna",
+            "value": "358"
+        },
+        {
+            "name": "Fast Track Special Court Tirur",
+            "value": "359"
+        },
+        {
+            "name": "Fast Track Special Court, Nilambur",
+            "value": "580"
+        },
+        {
+            "name": "Fast Track Special Court,Parappanangadi",
+            "value": "357"
+        },
+        {
+            "name": "Fast Track Special Court,Ponnani",
+            "value": "579"
+        },
+        {
+            "name": "Grama Nyayalaya - Perinthalmanna,Pulamanthole",
+            "value": "363"
+        },
+        {
+            "name": "Grama Nyayalaya Ponnani, Edappal",
+            "value": "362"
+        },
+        {
+            "name": "Judicial First Class Magistrate - I,Manjeri",
+            "value": "369"
+        },
+        {
+            "name": "Judicial First Class Magistrate - I,Parappanangadi",
+            "value": "370"
+        },
+        {
+            "name": "Judicial First Class Magistrate - I,Perinthalmanna",
+            "value": "368"
+        },
+        {
+            "name": "Judicial First Class Magistrate - II,Parappanangadi",
+            "value": "372"
+        },
+        {
+            "name": "Judicial First Class Magistrate - II,Perinthalmanna",
+            "value": "366"
+        },
+        {
+            "name": "Judicial First Class Magistrate ,Malappuram",
+            "value": "373"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court II Forest Offences, Manjeri",
+            "value": "365"
+        },
+        {
+            "name": "Judicial First Class Magistrate, Court Tirur",
+            "value": "364"
+        },
+        {
+            "name": "Judicial First Class Magistrate,Nilambur",
+            "value": "367"
+        },
+        {
+            "name": "Judicial First Class Magistrate,Ponnani",
+            "value": "371"
+        },
+        {
+            "name": "Juvenile Justice Board (Incharge JFCM-1-Tirur)",
+            "value": "374"
+        },
+        {
+            "name": "Motor Accidents Claims Tribunal,Manjeri",
+            "value": "376"
+        },
+        {
+            "name": "Motor Accidents Claims Tribunal/Additional District and Sessions Court,Tirur",
+            "value": "375"
+        },
+        {
+            "name": "Munsiff - Magistrate Court,Perinthalmanna",
+            "value": "377"
+        },
+        {
+            "name": "Munsiff Court, Tirur",
+            "value": "378"
+        },
+        {
+            "name": "Munsiff Court,Manjeri",
+            "value": "379"
+        },
+        {
+            "name": "Munsiff Court,Nilambur",
+            "value": "605"
+        },
+        {
+            "name": "Munsiff-Magistrate, Parappanagadi",
+            "value": "380"
+        },
+        {
+            "name": "Munsiff-Magistrate, Ponnani",
+            "value": "381"
+        },
+        {
+            "name": "Special Court,SC/ST(POA) Act Cases,Manjeri",
+            "value": "382"
+        },
+        {
+            "name": "Sub Court ,Manjeri",
+            "value": "384"
+        },
+        {
+            "name": "Sub Court Tirur",
+            "value": "383"
+        }
+    ],
+    "PALAKKAD": [
+        {
+            "name": "Additional / MACT Court, Ottappalam",
+            "value": "409"
+        },
+        {
+            "name": "Chief Judicial Magistrate Court, Palakkad",
+            "value": "385"
+        },
+        {
+            "name": "Commercial Court Palakkad",
+            "value": "387"
+        },
+        {
+            "name": "Commercial Court, Ottappalam",
+            "value": "386"
+        },
+        {
+            "name": "District and Sessions Court/ Rent Control Appellate Authority,Palakkad",
+            "value": "388"
+        },
+        {
+            "name": "Family Court Ottapalam",
+            "value": "389"
+        },
+        {
+            "name": "Family Court,Palakkad",
+            "value": "390"
+        },
+        {
+            "name": "Fast Track Special Court Alathur",
+            "value": "578"
+        },
+        {
+            "name": "Fast Track Special Court Pattambi",
+            "value": "391"
+        },
+        {
+            "name": "Gram Nyayalaya Pudupariyaram",
+            "value": "393"
+        },
+        {
+            "name": "Gram Nyayalaya Sreekrishnapuram",
+            "value": "394"
+        },
+        {
+            "name": "Gram Nyayalaya Thenkurissi",
+            "value": "395"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court -I, Chittur",
+            "value": "403"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court -I, Ottappalam",
+            "value": "404"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court -II, Chittur",
+            "value": "401"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court -II, Palakkad",
+            "value": "397"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court -III, Palakkad",
+            "value": "398"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court , Mannarkkad",
+            "value": "400"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 1, Palakkad",
+            "value": "396"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court II, Alathur",
+            "value": "402"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Attappadi",
+            "value": "600"
+        },
+        {
+            "name": "Judicial First Class Magistrate II, Ottappalam",
+            "value": "392"
+        },
+        {
+            "name": "Judicial First Class Magistrate IV, Palakkad",
+            "value": "406"
+        },
+        {
+            "name": "Judicial First Class Magistrate V, Palakkad",
+            "value": "407"
+        },
+        {
+            "name": "Judicial First Class Magistrate-I, Alathur",
+            "value": "399"
+        },
+        {
+            "name": "Judicial First Class Magistrate-I, Pattambi",
+            "value": "405"
+        },
+        {
+            "name": "Juvenile justice board, Palakkad",
+            "value": "408"
+        },
+        {
+            "name": "MACT Palakkad",
+            "value": "410"
+        },
+        {
+            "name": "Munsiff Court , Alathur",
+            "value": "411"
+        },
+        {
+            "name": "Munsiff Court, Chittur",
+            "value": "413"
+        },
+        {
+            "name": "Munsiff Court, Ottappalam",
+            "value": "414"
+        },
+        {
+            "name": "Munsiff Court, Palakkad",
+            "value": "412"
+        },
+        {
+            "name": "Munsiff Magistrate Court, Attappadi",
+            "value": "599"
+        },
+        {
+            "name": "Munsiff Magistrate Court, Mannarkkad",
+            "value": "415"
+        },
+        {
+            "name": "Munsiff Magistrate Court, Pattambi",
+            "value": "416"
+        },
+        {
+            "name": "Special Court for SC/ST cases Mannarkkad",
+            "value": "417"
+        },
+        {
+            "name": "Sub Court, Ottappalam",
+            "value": "418"
+        },
+        {
+            "name": "Sub Court, Palakkad",
+            "value": "419"
+        }
+    ],
+    "PATHANAMTHITTA": [
+        {
+            "name": "Chief Judicial Magistrate, Pathanamthitta",
+            "value": "420"
+        },
+        {
+            "name": "Commercial Court , Thiruvalla",
+            "value": "421"
+        },
+        {
+            "name": "COMMERCIAL COURT,PATHANAMTHITTA",
+            "value": "422"
+        },
+        {
+            "name": "District Court / Rent Control Appellate Authority, Pathanamthitta",
+            "value": "425"
+        },
+        {
+            "name": "Family Court Pathanamthitta",
+            "value": "426"
+        },
+        {
+            "name": "Family court, Adoor",
+            "value": "566"
+        },
+        {
+            "name": "Family Court,Thiruvalla",
+            "value": "427"
+        },
+        {
+            "name": "FAST Track Special Court , Adoor",
+            "value": "428"
+        },
+        {
+            "name": "FAST TRACK SPECIAL COURT, PATHANAMTHITTA",
+            "value": "429"
+        },
+        {
+            "name": "Gram Nyayalaya, Pandalam",
+            "value": "430"
+        },
+        {
+            "name": "Gram Nyayalaya, Ranni",
+            "value": "431"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - I, Adoor",
+            "value": "433"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - I, Pathanamthitta",
+            "value": "438"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - I, Thiruvalla",
+            "value": "435"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - II, Adoor",
+            "value": "423"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - II, Pathanamthitta",
+            "value": "432"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - II, Ranny",
+            "value": "436"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - II, Thiruvalla",
+            "value": "437"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court - III, Pathanamthitta",
+            "value": "424"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Ranni",
+            "value": "434"
+        },
+        {
+            "name": "Juvenile Justice Boards, Pathanamthitta",
+            "value": "586"
+        },
+        {
+            "name": "Motor Accidents Claims Tribunal, Pathanamthitta",
+            "value": "439"
+        },
+        {
+            "name": "Munsiff Court , Adoor",
+            "value": "440"
+        },
+        {
+            "name": "Munsiff Court, Pathanamthitta",
+            "value": "443"
+        },
+        {
+            "name": "Munsiff Court, Ranni",
+            "value": "441"
+        },
+        {
+            "name": "Munsiff Court, Thiruvalla",
+            "value": "442"
+        },
+        {
+            "name": "Sub Court, Pathanamthitta",
+            "value": "445"
+        },
+        {
+            "name": "Sub Court, Thiruvalla",
+            "value": "444"
+        }
+    ],
+    "THIRUVANANTHAPURAM": [
+        {
+            "name": "Additional District Court, Neyyattinkara",
+            "value": "446"
+        },
+        {
+            "name": "Addl District and Sessions Court POCSO Trivandrum",
+            "value": "447"
+        },
+        {
+            "name": "Addl. Chief Judicial Magistrate Court, Thiruvananthapuram",
+            "value": "448"
+        },
+        {
+            "name": "CBI Court Thiruvananthapuram",
+            "value": "449"
+        },
+        {
+            "name": "Chief Judicial Magistrate Court, Thiruvananthapuram",
+            "value": "450"
+        },
+        {
+            "name": "Co-operative Arbitration Court",
+            "value": "904"
+        },
+        {
+            "name": "Commercial Court Attingal",
+            "value": "451"
+        },
+        {
+            "name": "Commercial Court Nedumnagad",
+            "value": "452"
+        },
+        {
+            "name": "Commercial Court Neyyattinkara",
+            "value": "453"
+        },
+        {
+            "name": "Commercial Court, Thiruvananthapuram",
+            "value": "454"
+        },
+        {
+            "name": "District Court, Thiruvananthapuram",
+            "value": "455"
+        },
+        {
+            "name": "Enquiry Commissioner And Special Judge (VIGILANCE) Thiruvananthapuram",
+            "value": "612"
+        },
+        {
+            "name": "Family Court Attingal",
+            "value": "456"
+        },
+        {
+            "name": "Family Court Nedumangad",
+            "value": "457"
+        },
+        {
+            "name": "Family Court Neyyattinkara",
+            "value": "458"
+        },
+        {
+            "name": "Family Court,Thiruvananthapuram",
+            "value": "459"
+        },
+        {
+            "name": "FTSC Attingal",
+            "value": "460"
+        },
+        {
+            "name": "FTSC Kattakkada",
+            "value": "571"
+        },
+        {
+            "name": "FTSC Nedumangad",
+            "value": "569"
+        },
+        {
+            "name": "FTSC Neyyattinkara 1",
+            "value": "568"
+        },
+        {
+            "name": "FTSC Neyyattinkara 2",
+            "value": "570"
+        },
+        {
+            "name": "FTSC Thiruvanathapuram",
+            "value": "572"
+        },
+        {
+            "name": "FTSC Varkala",
+            "value": "573"
+        },
+        {
+            "name": "Grama Nyayalay Vellanad",
+            "value": "461"
+        },
+        {
+            "name": "Grama nyayalaya Parasala",
+            "value": "462"
+        },
+        {
+            "name": "JFMC 4 Attingal",
+            "value": "464"
+        },
+        {
+            "name": "JFMC FOREST Nedumangad",
+            "value": "463"
+        },
+        {
+            "name": "Judicial First class Magistrate Court 1 Attingal",
+            "value": "465"
+        },
+        {
+            "name": "Judicial First class Magistrate Court 1 Kattakkada",
+            "value": "466"
+        },
+        {
+            "name": "Judicial First class Magistrate Court 1 Nedumangadu",
+            "value": "467"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 1, Neyyattinkara",
+            "value": "468"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 1, Thiruvananthapuram",
+            "value": "469"
+        },
+        {
+            "name": "Judicial First class Magistrate Court 2 Attingal",
+            "value": "470"
+        },
+        {
+            "name": "Judicial First class Magistrate Court 2 Nedumangadu",
+            "value": "471"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 2, Thiruvananthapuram",
+            "value": "472"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 2,Neyyattinkara",
+            "value": "473"
+        },
+        {
+            "name": "Judicial First class Magistrate Court 3 Nedumangadu",
+            "value": "474"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 3, Thiruvananthapuram",
+            "value": "475"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 3,Neyyattinkara",
+            "value": "476"
+        },
+        {
+            "name": "Judicial First class Magistrate Court 4 Nedumangadu",
+            "value": "477"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 4, Thiruvananthapuram",
+            "value": "478"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 4,Neyyattinkara",
+            "value": "479"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 5, Thiruvananthapuram",
+            "value": "480"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 5,Neyyattinkara",
+            "value": "481"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 6,Neyyattinkara",
+            "value": "482"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court 7 Neyyattinkara",
+            "value": "492"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court III Attingal",
+            "value": "591"
+        },
+        {
+            "name": "Judicial First Class magistrate Court XI , Thiruvananthapuram",
+            "value": "483"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-10 Trivandrum",
+            "value": "485"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-6 Trivandrum",
+            "value": "486"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-7 Trivandrum",
+            "value": "487"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-8 Trivandrum",
+            "value": "488"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court-9 Trivandrum",
+            "value": "489"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court1, Varkala",
+            "value": "490"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court2,Varkala",
+            "value": "491"
+        },
+        {
+            "name": "Juvenile Justice Board, Thiruvananthapuram",
+            "value": "589"
+        },
+        {
+            "name": "Kerala Co-Operative Tribunal, Thiruvananthapuram",
+            "value": "625"
+        },
+        {
+            "name": "Kerala Value Added Tax / Agricultural Income Tax & Sales Tax Appellate Tribunal, Additional Bench, Thiruvananthapuram",
+            "value": "623"
+        },
+        {
+            "name": "MACT , Neyyattinkara",
+            "value": "493"
+        },
+        {
+            "name": "MACT,Attingal",
+            "value": "494"
+        },
+        {
+            "name": "Motor Accidents Claims Tribunal, Thiruvananthapuram",
+            "value": "495"
+        },
+        {
+            "name": "Munsiff Court Attingal",
+            "value": "496"
+        },
+        {
+            "name": "Munsiff Court Nedumangadu",
+            "value": "497"
+        },
+        {
+            "name": "Munsiff Court Thiruvananthapuram",
+            "value": "498"
+        },
+        {
+            "name": "Munsiff Court, Neyyattinkara",
+            "value": "499"
+        },
+        {
+            "name": "Munsiff Court, Varkala",
+            "value": "500"
+        },
+        {
+            "name": "Permanent Lok Adalat Thiruvananthapuram",
+            "value": "901"
+        },
+        {
+            "name": "Special Court for SC ST PoA Cases Nedumangad",
+            "value": "590"
+        },
+        {
+            "name": "Special Court of Judicial Magistrate of First Class for the trial of cases under section 138 NI Act",
+            "value": "484"
+        },
+        {
+            "name": "Sub Court Attingal",
+            "value": "501"
+        },
+        {
+            "name": "Sub Court Nedumangadu",
+            "value": "502"
+        },
+        {
+            "name": "Sub Court, Neyyattinkara",
+            "value": "503"
+        },
+        {
+            "name": "Sub Court, Thiruvananthapuram",
+            "value": "504"
+        },
+        {
+            "name": "Tribunal for Local Self Government Institutions",
+            "value": "583"
+        },
+        {
+            "name": "University Appellate Tribunal, Thiruvananthapuram",
+            "value": "619"
+        }
+    ],
+    "THRISSUR": [
+        {
+            "name": "Additional CJM, Thrissur",
+            "value": "505"
+        },
+        {
+            "name": "Addlitional District Court/M.A.C.T./Rent Control Appellate Authority, Irinjalakuda",
+            "value": "535"
+        },
+        {
+            "name": "CJM Court, Thrissur",
+            "value": "506"
+        },
+        {
+            "name": "Commercial Court, Chavakkad",
+            "value": "507"
+        },
+        {
+            "name": "Commercial Court, Irinjalakuda",
+            "value": "508"
+        },
+        {
+            "name": "Commercial Court, Thrissur",
+            "value": "509"
+        },
+        {
+            "name": "District and Sessions Court/Rent Control Appellate Authority, Thrissur",
+            "value": "510"
+        },
+        {
+            "name": "Enquiry Commissioner And Special Judge (VIGILANCE) Thrissur",
+            "value": "615"
+        },
+        {
+            "name": "Family Court Thrissur",
+            "value": "512"
+        },
+        {
+            "name": "Family Court, Irinjalakuda",
+            "value": "511"
+        },
+        {
+            "name": "Family Court, Kunnamkulam",
+            "value": "513"
+        },
+        {
+            "name": "Fast Track Special Court-I, Thrissur",
+            "value": "515"
+        },
+        {
+            "name": "Fast Track Special Court-II, Thrissur",
+            "value": "602"
+        },
+        {
+            "name": "Fast Track Special Court, Chalakudy",
+            "value": "606"
+        },
+        {
+            "name": "Fast Track Special Court, Chavakkad",
+            "value": "604"
+        },
+        {
+            "name": "Fast Track Special Court, Irinjalakuda",
+            "value": "609"
+        },
+        {
+            "name": "Fast Track Special Court, Kodungallur",
+            "value": "610"
+        },
+        {
+            "name": "Fast Track Special Court, Kunnamkulam",
+            "value": "514"
+        },
+        {
+            "name": "Fast Track Special Court, Wadakkanchery",
+            "value": "608"
+        },
+        {
+            "name": "Gram Nyayalaya, Mathilakam",
+            "value": "516"
+        },
+        {
+            "name": "Gram Nyayalaya, Pazhayannur",
+            "value": "517"
+        },
+        {
+            "name": "JFCM-I, Thrissur",
+            "value": "518"
+        },
+        {
+            "name": "JFCM-II, Chavakkad",
+            "value": "603"
+        },
+        {
+            "name": "JFCM-II, Irinjalakuda",
+            "value": "519"
+        },
+        {
+            "name": "JFCM-II, Kodungallur",
+            "value": "528"
+        },
+        {
+            "name": "JFCM-II, Thrissur",
+            "value": "520"
+        },
+        {
+            "name": "JFCM-II, Wadakkanchery",
+            "value": "607"
+        },
+        {
+            "name": "JFCM-III, Irinjalakuda",
+            "value": "521"
+        },
+        {
+            "name": "JFCM-III, Thrissur",
+            "value": "522"
+        },
+        {
+            "name": "JFCM-IV, Thrissur",
+            "value": "523"
+        },
+        {
+            "name": "JFCM-V, Thrissur",
+            "value": "524"
+        },
+        {
+            "name": "JFCM-VI, Thrissur",
+            "value": "525"
+        },
+        {
+            "name": "JFCM-VII, Thrissur",
+            "value": "526"
+        },
+        {
+            "name": "JFCM, Chalakudy",
+            "value": "529"
+        },
+        {
+            "name": "JFCM, Chavakkad",
+            "value": "531"
+        },
+        {
+            "name": "JFCM, Irinjalakuda",
+            "value": "530"
+        },
+        {
+            "name": "JFCM, Kodungallur",
+            "value": "532"
+        },
+        {
+            "name": "JFCM, Kunnamkulam",
+            "value": "527"
+        },
+        {
+            "name": "JFCM, Wadakkanchery",
+            "value": "533"
+        },
+        {
+            "name": "Juvenile Justice Board, Thrissur",
+            "value": "601"
+        },
+        {
+            "name": "Motor Accident Claims Tribunal, Thrissur",
+            "value": "534"
+        },
+        {
+            "name": "Munsiff Court, Chalakudy",
+            "value": "537"
+        },
+        {
+            "name": "Munsiff Court, Chavakkad",
+            "value": "538"
+        },
+        {
+            "name": "Munsiff Court, Irinjnalakuda",
+            "value": "539"
+        },
+        {
+            "name": "Munsiff Court, Kodungallur",
+            "value": "541"
+        },
+        {
+            "name": "Munsiff Court, Thrissur",
+            "value": "536"
+        },
+        {
+            "name": "Munsiff Court, Wadakkanchery",
+            "value": "540"
+        },
+        {
+            "name": "Special Court for the trial of SC/ST PoA Act Cases, Thrissur",
+            "value": "542"
+        },
+        {
+            "name": "Sub Court, Chavakkad",
+            "value": "544"
+        },
+        {
+            "name": "Sub Court, Irinjalakuda",
+            "value": "545"
+        },
+        {
+            "name": "Sub Court, Thrissur",
+            "value": "543"
+        }
+    ],
+    "WAYANAD": [
+        {
+            "name": "Addl District Court, Mananthavady",
+            "value": "546"
+        },
+        {
+            "name": "Chief Judicial Magistrate Court, Kalpetta",
+            "value": "547"
+        },
+        {
+            "name": "Commercial Court Sulthan Bathery",
+            "value": "548"
+        },
+        {
+            "name": "District and Sessions Court / Rent Control Appellate, Kalpetta",
+            "value": "549"
+        },
+        {
+            "name": "Family Court,Kalpetta",
+            "value": "550"
+        },
+        {
+            "name": "Fast Track Special Court Kalpetta",
+            "value": "551"
+        },
+        {
+            "name": "Fast Track Special Court Sulthan Bathery",
+            "value": "552"
+        },
+        {
+            "name": "Gram Nyayalaya, Kalpetta",
+            "value": "553"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court I, Mananthavady",
+            "value": "554"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court I, Sulthanbathery",
+            "value": "555"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court II, Mananthavady",
+            "value": "556"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court II, Sulthanbathery",
+            "value": "557"
+        },
+        {
+            "name": "Judicial First Class Magistrate Court, Kalpetta",
+            "value": "558"
+        },
+        {
+            "name": "Motor Accidents Claim Tribunal, Kalpetta",
+            "value": "559"
+        },
+        {
+            "name": "Munsiff Magistrate Court / Rent Control Court, Kalpetta",
+            "value": "560"
+        },
+        {
+            "name": "Munsiff Magistrate Court / Rent Control Court, Mananthavady",
+            "value": "561"
+        },
+        {
+            "name": "Munsiff Magistrate Court / Rent Control Court, Sulthanbathery",
+            "value": "562"
+        },
+        {
+            "name": "Spl. Court SCST POA, Mananthavady",
+            "value": "563"
+        },
+        {
+            "name": "Subcourt, Sulthanbathery",
+            "value": "564"
+        }
+    ]
+}

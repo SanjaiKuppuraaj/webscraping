@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KSAT Case Data</title>
+    
+</head>
+<body>
+
+    {% if error %}
+        <p style="color:red;">{{ error }}</p>
+    {% elif case_data %}
+        <!-- <pre>{{ case_data | tojson(indent=4) }}</pre> -->
+        <pre>{{ case_data | tojson(indent=4) }}</pre>
+    {% else %}
+        <p>No data available.</p>
+        <p>{{elasped_time}}</p>
+    {% endif %}
+</body>
+</html>
